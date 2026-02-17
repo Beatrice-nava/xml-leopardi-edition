@@ -65,40 +65,38 @@
                      </msIdentifier>
                   </msDesc>
                </witness>
-               <witness xml:id="NR25">
+               <witness xml:id="NR26">
                   <msDesc type="print">
                      <msIdentifier>
-                        <idno>Nuovo ricoglitore</idno>
+                        <idno>Nuovo ricoglitore 1826</idno>
                      </msIdentifier>
                   </msDesc>
                </witness>
                <witness xml:id="B26">
                   <msDesc type="print">
                      <msIdentifier>
-                        <idno>Rif. Bibl.</idno>
+                        <idno>Versi del Conte Giacomo Leopardi, Bologna, Stamperia delle Muse, 1826.</idno>
                      </msIdentifier>
                   </msDesc>
                </witness>
                <witness xml:id="F31">
                   <msDesc type="print">
                      <msIdentifier>
-                        <idno>Rif. Bibl.</idno>
+                        <idno>Canti del Conte Giacomo Leopardi, Firenze, Piatti, 1831.</idno>
                      </msIdentifier>
                   </msDesc>
                </witness>
                <witness xml:id="N35">
                   <msDesc type="print">
                      <msIdentifier>
-                        <idno>Opere di Giacomo Leopardi Vol. I. Canti di Giacomo Leopardi. Edizione
-                           corretta, accresciuta e sola approvata dall'autore. Napoli, presso
-                           Saverio Starita Strada Quercia n. 14. 1835.</idno>
+                        <idno>Opere di Giacomo Leopardi, Vol. I. Canti di Giacomo Leopardi, Napoli, Starita, 1835.</idno>
                      </msIdentifier>
                   </msDesc>
                </witness>
                <witness xml:id="N35c">
                   <msDesc type="print">
                      <msIdentifier>
-                        <idno>Rif. Bibl.</idno>
+                        <idno>Esemplare sciolto dell’edizione Starita con errori che vennero poi eliminati prima della tiratura di N35, su cui Leopardi fece correzioni e aggiunte per la stampa progettata da Baudry.</idno>
                      </msIdentifier>
                   </msDesc>
                </witness>
@@ -120,7 +118,7 @@
       <body>
          <head>
             <app>
-               <lem wit="#N35 #N35c">XIV. <lb/>ALLA LUNA</lem>
+               <lem wit="#N35 #N35c">XIV.<lb/> ALLA LUNA</lem>
                <rdg wit="#AN"><mod change="#layer0" seq="1">Idillio | La Luna</mod>
                   <mod change="layer0" type="reuse" seq="2"> Idillio | La Luna o la
                      Ricordanza</mod>
@@ -211,7 +209,7 @@
                         >cambia</mod>
                      <mod change="#layer3" type="reuse" seq="3">cangia</mod></rdg>
                </app> stile,</l>
-            <l n="10"> O mia diletta <app>
+            <l n="10">O mia diletta <app>
                   <lem wit="#F31 #N35 #N35c">luna</lem>
                   <rdg wit="#AN #AV #NR26 #B26">Luna</rdg>
                </app>. E pur mi giova</l>
