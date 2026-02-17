@@ -39,6 +39,13 @@
                <editor>Rossano Pestarino</editor>
                <editor>Sara Rosini</editor>
             </bibl>
+            <bibl>
+               <author>Paola Italia</author>
+               <title>Proposta di edizione del quaderno napoletano</title>
+               <publisher>Carocci</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>2016</date>
+            </bibl>
             <listWit>
                <witness xml:id="AN">
                   <msDesc type="ms">

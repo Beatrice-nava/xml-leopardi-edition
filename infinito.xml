@@ -6,17 +6,46 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title/>
+            <title>Canti</title>
+            <author>Giacomo Leopardi</author>
             <respStmt>
-               <resp/>
-               <persName/>
+               <resp>Encoding</resp>
+               <persName xml:id="RP">Roberta Priore</persName>
+               <persName xml:id="BN">Beatrice Nava</persName>
+               <orgName>Alma Mater Studiorum - University of Bologna</orgName>
             </respStmt>
          </titleStmt>
          <publicationStmt>
-            <publisher/>
+            <publisher>DH.ARC</publisher>
+            <pubPlace>Bologna</pubPlace>
+            <date>2025</date>
+            <availability>
+               <licence target="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA
+                  4.0</licence>
+            </availability>
          </publicationStmt>
          <sourceDesc>
-            <bibl> </bibl>
+            <bibl>
+               <author>Giacomo Leopardi</author>
+               <title>Canti</title>
+               <publisher>Accademia della Crusca</publisher>
+               <pubPlace>Firenze</pubPlace>
+               <date>2009</date>
+               <editor>Franco Gavazzeni</editor>
+               <editor>Cristiano Animosi</editor>
+               <editor>Paola Italia</editor>
+               <editor>Maria Maddalena Lombardi</editor>
+               <editor>Federica Lucchesini</editor>
+               <editor>Rossano Pestarino</editor>
+               <editor>Sara Rosini</editor>
+            </bibl>
+            <bibl>
+               <author>Paola Italia</author>
+               <title>Proposta di edizione del quaderno napoletano</title>
+               <publisher>Carocci</publisher>
+               <pubPlace>Roma</pubPlace>
+               <date>2016</date>
+            </bibl>
             <listWit>
                <witness xml:id="AN">
                   <msDesc type="ms">
