@@ -157,7 +157,7 @@
                      <mod change="#layer1" type="reuse" seq="3">Che, or volge un anno,</mod></rdg>
                   <rdg wit="#AV #NR26 #B26">Che, or volge un anno</rdg>
                </app>
-               <anchor xml:id="v2-3"/> sovra questo colle</l>
+               <anchor xml:id="v.2-3"/> sovra questo colle</l>
             <l n="3"> Io venia pien <app from="#v2-3">
                   <lem wit="#N35c">sovra questo colle / Io venia pien</lem>
                   <rdg wit="#AN"><mod change="#layer0" seq="1">io su questo poggio / Venia
@@ -190,7 +190,7 @@
                   <rdg wit="#AV">Siccome or</rdg>
                </app> fai, che tutta la rischiari.</l>
             <l n="6">Ma nebuloso e tremulo dal pianto</l>
-            <l n="7">Che mi sorgea sul ciglio, <anchor xml:id="v7-8"/>alle mie luci</l>
+            <l n="7">Che mi sorgea sul ciglio, <anchor xml:id="v.7-8"/>alle mie luci</l>
             <l n="8">Il tuo volto apparia, che travagliosa <app from="#v7-8">
                   <lem wit="#N35 #N35c">alle mie luci / Il tuo volto apparia, che
                      travagliosa</lem>
@@ -233,11 +233,11 @@
                   <lem wit="#AV #NR26 #B26 #F31 #N35c">come grato</lem>
                   <rdg wit="#AN"><mod  change="#layer0" seq="1">quanto grato</mod> <mod change="#layer1"
                         type="superscript" seq="2">come grato</mod></rdg>
-                  <rdg wit="#AN" ana="altVariant" change="#layer3">(come sì grato)</rdg>
+                  <rdg wit="#AN" ana="altVariant" type="margin" change="#layer3">(come sì grato)</rdg>
                </app> occorre</l>
-            <l n="13"><anchor xml:id="v13"/>Nel tempo giovanil, quando ancor lungo</l>
+            <l n="13"><anchor xml:id="v.13-15"/>Nel tempo giovanil, quando ancor lungo</l>
             <l n="14">La speme e breve ha la memoria il corso,</l>
-            <l n="15">Il rimembrar <app from="#v13">
+            <l n="15">Il rimembrar <app from="#v.13-15">
                   <lem wit="#N35c">Nel tempo giovanil, quando ancor lungo / La speme e breve ha
                      la memoria il corso, / Il rimembrar</lem>
                   <rdg wit="#AN #AV #NR26 #B26 #F31 #N35">Il sovvenir</rdg>
