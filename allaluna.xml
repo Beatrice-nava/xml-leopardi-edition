@@ -15,6 +15,13 @@
                <orgName>Alma Mater Studiorum - University of Bologna</orgName>
             </respStmt>
          </titleStmt>
+         <editionStmt>
+            <edition>
+               <interpGrp>
+                  <interp xml:id="altVariant">Varianti alternative</interp>
+               </interpGrp>
+            </edition>
+         </editionStmt>
          <publicationStmt>
             <publisher>DH.ARC</publisher>
             <pubPlace>Bologna</pubPlace>
@@ -73,39 +80,23 @@
                   </msDesc>
                </witness>
                <witness xml:id="NR26">
-                  <msDesc type="print">
-                     <msIdentifier>
-                        <idno>Nuovo ricoglitore 1826</idno>
-                     </msIdentifier>
-                  </msDesc>
+                  <bibl>Nuovo ricoglitore 1826</bibl>
                </witness>
                <witness xml:id="B26">
-                  <msDesc type="print">
-                     <msIdentifier>
-                        <idno>Versi del Conte Giacomo Leopardi, Bologna, Stamperia delle Muse, 1826.</idno>
-                     </msIdentifier>
-                  </msDesc>
+                  <bibl>Versi del Conte Giacomo Leopardi, Bologna, Stamperia delle Muse,
+                     1826.</bibl>
                </witness>
                <witness xml:id="F31">
-                  <msDesc type="print">
-                     <msIdentifier>
-                        <idno>Canti del Conte Giacomo Leopardi, Firenze, Piatti, 1831.</idno>
-                     </msIdentifier>
-                  </msDesc>
+                  <bibl>Canti del Conte Giacomo Leopardi, Firenze, Piatti, 1831.</bibl>
                </witness>
                <witness xml:id="N35">
-                  <msDesc type="print">
-                     <msIdentifier>
-                        <idno>Opere di Giacomo Leopardi, Vol. I. Canti di Giacomo Leopardi, Napoli, Starita, 1835.</idno>
-                     </msIdentifier>
-                  </msDesc>
+                  <bibl>Opere di Giacomo Leopardi, Vol. I. Canti di Giacomo Leopardi, Napoli,
+                     Starita, 1835.</bibl>
                </witness>
                <witness xml:id="N35c">
-                  <msDesc type="print">
-                     <msIdentifier>
-                        <idno>Esemplare sciolto dell’edizione Starita con errori che vennero poi eliminati prima della tiratura di N35, su cui Leopardi fece correzioni e aggiunte per la stampa progettata da Baudry.</idno>
-                     </msIdentifier>
-                  </msDesc>
+                  <bibl>Esemplare sciolto dell’edizione Starita con errori che vennero poi eliminati
+                     prima della tiratura di N35, su cui Leopardi fece correzioni e aggiunte per la
+                     stampa progettata da Baudry. </bibl>
                </witness>
             </listWit>
          </sourceDesc>
